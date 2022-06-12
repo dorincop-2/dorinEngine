@@ -1,7 +1,7 @@
 {
-  "name": "banana",
-  "version": "5.0.0",
-  "description": "위키 엔진",
+  "name": "dorinEngine",
+  "version": "1.0.0",
+  "description": "오픈나무마크로 하는 위키 엔진",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -19,7 +19,7 @@
     "iconv-lite": "^0.6.2",
     "ip-range-check": "^0.2.0",
     "jquery": "^3.5.1",
-    "js-namumark": "^1.4.0",
+    "poi-seed-namumark": "^1.0.0",
     "jsdom": "^16.4.0",
     "md5": "^2.2.1",
     "method-override": "^3.0.0",
@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gdl-888/banana.git"
+    "url": "git+https://github.com/dorincop-2/dorinEngine.git"
   },
   "keywords": [
     "wiki-engine"
@@ -56,7 +56,7 @@
   "author": "",
   "license": "",
   "bugs": {
-    "url": "https://github.com/gdl-888/banana/issues"
+    "url": "https://github.com/dorincop-2/dorinEngine.git/issues"
   },
-  "homepage": "https://github.com/gdl-888/banana#readme"
+  "homepage": "https://github.com/dorincop-2/dorinEngine.git#readme"
 }
